@@ -5,7 +5,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2011-01-27T07:42:12Z</time>
+    <time>2012-05-13T08:40:34Z</time>
     <bounds maxlat="54.1771810" maxlon="18.8165770" minlat="54.0924320" minlon="18.6051910"/>
   </metadata>
 
@@ -17,14 +17,6 @@
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
-      <trkpt lat="54.0951240" lon="18.7659170">
-        <ele>-100.7630000</ele>
-        <time>2011-01-16T11:34:33Z</time>
-      </trkpt>
-      <trkpt lat="54.0951700" lon="18.7658710">
-        <ele>-101.0930000</ele>
-        <time>2011-01-16T11:34:42Z</time>
-      </trkpt>
       <trkpt lat="54.0947840" lon="18.7663160">
         <ele>-99.3780000</ele>
         <time>2011-01-16T11:34:54Z</time>
@@ -2976,46 +2968,6 @@
       <trkpt lat="54.0944220" lon="18.7657440">
         <ele>8.0100000</ele>
         <time>2011-01-16T14:55:43Z</time>
-      </trkpt>
-      <trkpt lat="54.0945640" lon="18.7655800">
-        <ele>8.9910000</ele>
-        <time>2011-01-16T14:55:50Z</time>
-      </trkpt>
-      <trkpt lat="54.0951170" lon="18.7654290">
-        <ele>7.1790000</ele>
-        <time>2011-01-16T14:56:05Z</time>
-      </trkpt>
-      <trkpt lat="54.0952270" lon="18.7653760">
-        <ele>7.2470000</ele>
-        <time>2011-01-16T14:56:08Z</time>
-      </trkpt>
-      <trkpt lat="54.0952940" lon="18.7653690">
-        <ele>7.8670000</ele>
-        <time>2011-01-16T14:56:19Z</time>
-      </trkpt>
-      <trkpt lat="54.0952780" lon="18.7653860">
-        <ele>10.5490000</ele>
-        <time>2011-01-16T14:56:38Z</time>
-      </trkpt>
-      <trkpt lat="54.0952850" lon="18.7653920">
-        <ele>10.3590000</ele>
-        <time>2011-01-16T14:56:39Z</time>
-      </trkpt>
-      <trkpt lat="54.0954720" lon="18.7655250">
-        <ele>10.2470000</ele>
-        <time>2011-01-16T14:56:48Z</time>
-      </trkpt>
-      <trkpt lat="54.0954690" lon="18.7654810">
-        <ele>12.8420000</ele>
-        <time>2011-01-16T14:56:52Z</time>
-      </trkpt>
-      <trkpt lat="54.0954270" lon="18.7655070">
-        <ele>18.1060000</ele>
-        <time>2011-01-16T14:56:57Z</time>
-      </trkpt>
-      <trkpt lat="54.0954500" lon="18.7655050">
-        <ele>21.1230000</ele>
-        <time>2011-01-16T14:57:01Z</time>
       </trkpt>
     </trkseg>
   </trk>

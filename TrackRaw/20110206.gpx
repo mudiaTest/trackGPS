@@ -5,8 +5,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2011-02-06T21:13:37Z</time>
-    <bounds maxlat="54.1042130" maxlon="19.0436820" minlat="53.9132840" minlon="18.7647600"/>
+    <time>2012-05-13T08:48:38Z</time>
+    <bounds maxlat="54.1042130" maxlon="19.0436820" minlat="53.9132840" minlon="18.7647610"/>
   </metadata>
 
   <trk>
@@ -17,66 +17,6 @@
       </gpxx:TrackExtension>
     </extensions>
     <trkseg>
-      <trkpt lat="54.0954600" lon="18.7660100">
-        <ele>35.9090000</ele>
-        <time>2011-02-06T09:31:14Z</time>
-      </trkpt>
-      <trkpt lat="54.0954600" lon="18.7660100">
-        <ele>36.0890000</ele>
-        <time>2011-02-06T09:31:15Z</time>
-      </trkpt>
-      <trkpt lat="54.0954600" lon="18.7660100">
-        <ele>34.3660000</ele>
-        <time>2011-02-06T09:33:39Z</time>
-      </trkpt>
-      <trkpt lat="54.0954600" lon="18.7660100">
-        <ele>36.1810000</ele>
-        <time>2011-02-06T09:33:42Z</time>
-      </trkpt>
-      <trkpt lat="54.0954600" lon="18.7660100">
-        <ele>33.8010000</ele>
-        <time>2011-02-06T09:33:43Z</time>
-      </trkpt>
-      <trkpt lat="54.0954600" lon="18.7660100">
-        <ele>35.6550000</ele>
-        <time>2011-02-06T09:33:45Z</time>
-      </trkpt>
-      <trkpt lat="54.0954600" lon="18.7660100">
-        <ele>37.6530000</ele>
-        <time>2011-02-06T10:43:05Z</time>
-      </trkpt>
-      <trkpt lat="54.0982370" lon="18.7654700">
-        <ele>36.8630000</ele>
-        <time>2011-02-06T10:43:29Z</time>
-      </trkpt>
-      <trkpt lat="54.0984900" lon="18.7648090">
-        <ele>33.8560000</ele>
-        <time>2011-02-06T10:46:00Z</time>
-      </trkpt>
-      <trkpt lat="54.0984910" lon="18.7648040">
-        <ele>37.6430000</ele>
-        <time>2011-02-06T10:46:27Z</time>
-      </trkpt>
-      <trkpt lat="54.0984910" lon="18.7648040">
-        <ele>34.6460000</ele>
-        <time>2011-02-06T10:46:32Z</time>
-      </trkpt>
-      <trkpt lat="54.0984910" lon="18.7648020">
-        <ele>32.2390000</ele>
-        <time>2011-02-06T10:46:39Z</time>
-      </trkpt>
-      <trkpt lat="54.0984900" lon="18.7647910">
-        <ele>34.3690000</ele>
-        <time>2011-02-06T10:48:05Z</time>
-      </trkpt>
-      <trkpt lat="54.0984890" lon="18.7647870">
-        <ele>32.0250000</ele>
-        <time>2011-02-06T10:48:29Z</time>
-      </trkpt>
-      <trkpt lat="54.0985280" lon="18.7647600">
-        <ele>28.7480000</ele>
-        <time>2011-02-06T10:52:12Z</time>
-      </trkpt>
       <trkpt lat="54.0985340" lon="18.7647610">
         <ele>26.4740000</ele>
         <time>2011-02-06T10:56:41Z</time>
@@ -4125,25 +4065,9 @@
         <ele>10.0160000</ele>
         <time>2011-02-06T15:49:45Z</time>
       </trkpt>
-      <trkpt lat="54.0355350" lon="19.0436620">
-        <ele>10.0810000</ele>
-        <time>2011-02-06T15:50:02Z</time>
-      </trkpt>
-      <trkpt lat="54.0355270" lon="19.0436820">
-        <ele>10.6780000</ele>
-        <time>2011-02-06T21:06:18Z</time>
-      </trkpt>
       <trkpt lat="54.0355270" lon="19.0436820">
         <ele>10.5400000</ele>
         <time>2011-02-06T21:06:19Z</time>
-      </trkpt>
-      <trkpt lat="54.0355270" lon="19.0436820">
-        <ele>12.1520000</ele>
-        <time>2011-02-06T21:06:49Z</time>
-      </trkpt>
-      <trkpt lat="54.0355270" lon="19.0436820">
-        <ele>10.1830000</ele>
-        <time>2011-02-06T21:06:58Z</time>
       </trkpt>
     </trkseg>
   </trk>

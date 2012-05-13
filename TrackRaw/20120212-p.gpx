@@ -5,8 +5,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2012-02-18T16:24:23Z</time>
-    <bounds maxlat="54.0952550" maxlon="18.7662910" minlat="54.0060940" minlon="18.5904390"/>
+    <time>2012-05-13T15:18:15Z</time>
+    <bounds maxlat="54.0409110" maxlon="18.6120160" minlat="54.0060940" minlon="18.5904390"/>
   </metadata>
 
   <trk>
@@ -2224,68 +2224,6 @@
       <trkpt lat="54.0197430" lon="18.6119730">
         <ele>66.2940000</ele>
         <time>2012-02-12T13:24:45Z</time>
-      </trkpt>
-    </trkseg>
-  </trk>
-
-  <trk>
-    <name>ACTIVE LOG150822</name>
-    <extensions>
-      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayColor>White</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-    </extensions>
-    <trkseg>
-      <trkpt lat="54.0949150" lon="18.7654590">
-        <ele>20.8370000</ele>
-        <time>2012-02-12T14:08:22Z</time>
-      </trkpt>
-      <trkpt lat="54.0949150" lon="18.7654590">
-        <ele>24.2590000</ele>
-        <time>2012-02-12T14:08:26Z</time>
-      </trkpt>
-      <trkpt lat="54.0949150" lon="18.7654590">
-        <ele>27.5490000</ele>
-        <time>2012-02-12T14:08:29Z</time>
-      </trkpt>
-      <trkpt lat="54.0949150" lon="18.7654590">
-        <ele>29.1310000</ele>
-        <time>2012-02-12T14:08:30Z</time>
-      </trkpt>
-      <trkpt lat="54.0949150" lon="18.7654590">
-        <ele>32.1730000</ele>
-        <time>2012-02-12T14:08:34Z</time>
-      </trkpt>
-      <trkpt lat="54.0949150" lon="18.7654590">
-        <ele>30.4870000</ele>
-        <time>2012-02-12T14:10:28Z</time>
-      </trkpt>
-    </trkseg>
-  </trk>
-
-  <trk>
-    <name>ACTIVE LOG151710</name>
-    <extensions>
-      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayColor>White</gpxx:DisplayColor>
-      </gpxx:TrackExtension>
-    </extensions>
-    <trkseg>
-      <trkpt lat="54.0951100" lon="18.7662820">
-        <ele>31.4120000</ele>
-        <time>2012-02-12T14:17:10Z</time>
-      </trkpt>
-      <trkpt lat="54.0952070" lon="18.7662910">
-        <ele>31.1190000</ele>
-        <time>2012-02-12T14:17:52Z</time>
-      </trkpt>
-      <trkpt lat="54.0952490" lon="18.7658790">
-        <ele>32.4170000</ele>
-        <time>2012-02-12T14:18:38Z</time>
-      </trkpt>
-      <trkpt lat="54.0952550" lon="18.7658600">
-        <ele>32.6410000</ele>
-        <time>2012-02-12T14:18:39Z</time>
       </trkpt>
     </trkseg>
   </trk>
