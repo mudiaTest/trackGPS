@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.5" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.11" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 
   <metadata>
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2014-06-27T19:20:32Z</time>
+    <time>2014-07-01T08:01:28Z</time>
     <bounds maxlat="54.5602840" maxlon="18.6188420" minlat="54.3816260" minlon="18.3660670"/>
   </metadata>
 
@@ -4624,14 +4624,6 @@
       <trkpt lat="54.5602840" lon="18.4134770">
         <ele>17.8820000</ele>
         <time>2014-06-26T16:11:16Z</time>
-      </trkpt>
-      <trkpt lat="54.5602700" lon="18.4135770">
-        <ele>16.9910000</ele>
-        <time>2014-06-26T16:11:32Z</time>
-      </trkpt>
-      <trkpt lat="54.5602610" lon="18.4135560">
-        <ele>16.7530000</ele>
-        <time>2014-06-26T16:12:37Z</time>
       </trkpt>
     </trkseg>
   </trk>
