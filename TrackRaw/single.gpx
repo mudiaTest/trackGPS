@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.5" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2013-08-15T22:22:50Z</time>
+    <bounds maxlat="54.5611857" maxlon="121.6402667" minlat="25.0617834" minlon="-94.7990167"/>
+  </metadata>
+
+  <wpt lat="54.4656052" lon="18.4185646">
+    <ele>177.2474365</ele>
+    <name>001</name>
+    <cmt>02-SIE-12 10:49:45AM</cmt>
+    <desc>02-SIE-12 10:49:45AM</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.1489404" lon="18.6505433">
+    <name>001 1</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.5611857" lon="18.4230671">
+    <ele>10.4599609</ele>
+    <name>002</name>
+    <cmt>06-SIE-12 11:10:53AM</cmt>
+    <desc>06-SIE-12 11:10:53AM</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.5611855" lon="18.4230677">
+    <ele>10.7001953</ele>
+    <name>003</name>
+    <cmt>06-SIE-12 11:10:55AM</cmt>
+    <desc>06-SIE-12 11:10:55AM</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.2289104" lon="19.8588401">
+    <ele>1127.7436523</ele>
+    <name>004</name>
+    <cmt>25-SIE-12 12:41:31PM</cmt>
+    <desc>25-SIE-12 12:41:31PM</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.2290964" lon="19.8590954">
+    <ele>1127.5034180</ele>
+    <name>005</name>
+    <cmt>25-SIE-12 12:42:00PM</cmt>
+    <desc>25-SIE-12 12:42:00PM</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.2292198" lon="19.8592474">
+    <ele>1127.5034180</ele>
+    <name>006</name>
+    <cmt>25-SIE-12 12:42:12PM</cmt>
+    <desc>25-SIE-12 12:42:12PM</desc>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.0461285" lon="18.5985621">
+    <ele>971.2902832</ele>
+    <name>007</name>
+    <cmt>09-WRZ-12 11:21:37AM</cmt>
+    <desc>09-WRZ-12 11:21:37AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.9941246" lon="18.5643698">
+    <ele>980.4228516</ele>
+    <name>008</name>
+    <cmt>14-PAZ-12 7:34:17AM</cmt>
+    <desc>14-PAZ-12 7:34:17AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.0385979" lon="18.7148200">
+    <ele>946.2961426</ele>
+    <name>009</name>
+    <cmt>14-PAZ-12 8:57:34AM</cmt>
+    <desc>14-PAZ-12 8:57:34AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.0468194" lon="18.7360494">
+    <ele>942.2106934</ele>
+    <name>010</name>
+    <cmt>01-GRU-12 8:41:19AM</cmt>
+    <desc>01-GRU-12 8:41:19AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.9495470" lon="18.8419378">
+    <ele>-4.9210205</ele>
+    <name>011</name>
+    <cmt>28-GRU-12 4:54:12AM</cmt>
+    <desc>28-GRU-12 4:54:12AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.0426871" lon="18.5885764">
+    <ele>68.8596191</ele>
+    <name>012</name>
+    <cmt>29-GRU-12 4:15:31AM</cmt>
+    <desc>29-GRU-12 4:15:31AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.0937626" lon="18.7491882">
+    <ele>5.1727295</ele>
+    <name>013</name>
+    <cmt>13-STY-13 10:44:36AM</cmt>
+    <desc>13-STY-13 10:44:36AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.0544743" lon="19.0621411">
+    <ele>-3.4790039</ele>
+    <name>014</name>
+    <cmt>02-MAR-13 3:57:33AM</cmt>
+    <desc>02-MAR-13 3:57:33AM</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.9388186" lon="18.8426394">
+    <ele>3.9711914</ele>
+    <name>015</name>
+    <cmt>30-MAJ-13 14:35:55</cmt>
+    <desc>30-MAJ-13 14:35:55</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.9877167" lon="18.8000976">
+    <ele>27.5231934</ele>
+    <name>016</name>
+    <cmt>30-MAJ-13 15:29:58</cmt>
+    <desc>30-MAJ-13 15:29:58</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.2503525" lon="18.4516867">
+    <ele>100.1022949</ele>
+    <name>017</name>
+    <cmt>02-CZE-13 12:27:16</cmt>
+    <desc>02-CZE-13 12:27:16</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.8924959" lon="18.5688688">
+    <ele>63.5725098</ele>
+    <name>018</name>
+    <cmt>08-CZE-13 15:04:59</cmt>
+    <desc>08-CZE-13 15:04:59</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.5421427" lon="18.4188615">
+    <ele>91.4503174</ele>
+    <name>019</name>
+    <cmt>11-LIP-13 19:07:01</cmt>
+    <desc>11-LIP-13 19:07:01</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.9456701" lon="18.8656010">
+    <name>020</name>
+    <cmt>11-SIE-13 6:31:06</cmt>
+    <desc>11-SIE-13 6:31:06</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.7558743" lon="19.2032984">
+    <ele>45.7882080</ele>
+    <name>021</name>
+    <cmt>11-SIE-13 7:18:48</cmt>
+    <desc>11-SIE-13 7:18:48</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.7595875" lon="19.1228383">
+    <ele>69.5805664</ele>
+    <name>022</name>
+    <cmt>11-SIE-13 8:21:05</cmt>
+    <desc>11-SIE-13 8:21:05</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.7756696" lon="19.0561318">
+    <ele>62.8514404</ele>
+    <name>023</name>
+    <cmt>11-SIE-13 10:29:17</cmt>
+    <desc>11-SIE-13 10:29:17</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.7553587" lon="18.9849569">
+    <ele>65.0144043</ele>
+    <name>024</name>
+    <cmt>11-SIE-13 12:10:06</cmt>
+    <desc>11-SIE-13 12:10:06</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.7418726" lon="18.9495500">
+    <ele>56.1221924</ele>
+    <name>025</name>
+    <cmt>11-SIE-13 12:47:05</cmt>
+    <desc>11-SIE-13 12:47:05</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.8823274" lon="17.7274341">
+    <ele>144.8032227</ele>
+    <name>026</name>
+    <cmt>15-SIE-13 13:24:13</cmt>
+    <desc>15-SIE-13 13:24:13</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.9055683" lon="17.5350367">
+    <ele>129.1818848</ele>
+    <name>027</name>
+    <cmt>15-SIE-13 17:20:51</cmt>
+    <desc>15-SIE-13 17:20:51</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.8908378" lon="17.5412354">
+    <ele>128.2205811</ele>
+    <name>028</name>
+    <cmt>15-SIE-13 17:28:31</cmt>
+    <desc>15-SIE-13 17:28:31</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.8875881" lon="17.5398882">
+    <ele>140.7176514</ele>
+    <name>029</name>
+    <cmt>15-SIE-13 17:32:51</cmt>
+    <desc>15-SIE-13 17:32:51</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.8840528" lon="17.5406256">
+    <ele>143.3612061</ele>
+    <name>030</name>
+    <cmt>15-SIE-13 17:35:29</cmt>
+    <desc>15-SIE-13 17:35:29</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.8520001" lon="17.5671616">
+    <ele>106.8312988</ele>
+    <name>031</name>
+    <cmt>15-SIE-13 17:57:09</cmt>
+    <desc>15-SIE-13 17:57:09</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.2496276" lon="19.9210238">
+    <name>1320 M</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.3768525" lon="19.4320679">
+    <name>501 Gdańska +</name>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.8555500" lon="-94.7990167">
+    <ele>325.0490723</ele>
+    <name>Garmin</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.9828833" lon="-1.4639000">
+    <ele>35.9346924</ele>
+    <name>Garmin Europe</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="25.0617834" lon="121.6402667">
+    <ele>38.0976563</ele>
+    <name>Garmin Taiwan</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.3422842" lon="18.6614370">
+    <name>kowa</name>
+    <sym>Flag, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="54.3786764" lon="19.4392776">
+    <name>UP</name>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>ACTIVE LOG 006</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="53.9149927" lon="17.5298147">
+        <ele>144.3352051</ele>
+        <time>2013-08-15T15:15:46Z</time>
+      </trkpt>
+      <trkpt lat="53.9149471" lon="17.5299029">
+        <ele>143.3736572</ele>
+        <time>2013-08-15T15:15:50Z</time>
+      </trkpt>
+      <trkpt lat="53.9146611" lon="17.5301420">
+        <ele>139.5284424</ele>
+        <time>2013-08-15T15:15:57Z</time>
+      </trkpt>
+      <trkpt lat="53.9144707" lon="17.5301474">
+        <ele>139.0478516</ele>
+        <time>2013-08-15T15:16:01Z</time>
+      </trkpt>
+      <trkpt lat="53.9143840" lon="17.5302684">
+        <ele>137.1252441</ele>
+        <time>2013-08-15T15:16:04Z</time>
+      </trkpt>
+      <trkpt lat="53.9141949" lon="17.5306879">
+        <ele>132.7993164</ele>
+        <time>2013-08-15T15:16:09Z</time>
+      </trkpt>
+      <trkpt lat="53.9141415" lon="17.5307590">
+        <ele>131.8378906</ele>
+        <time>2013-08-15T15:16:10Z</time>
+      </trkpt>
+      <trkpt lat="53.9137047" lon="17.5318140">
+        <ele>132.7993164</ele>
+        <time>2013-08-15T15:16:18Z</time>
+      </trkpt>
+      <trkpt lat="53.9134648" lon="17.5321074">
+        <ele>133.2799072</ele>
+        <time>2013-08-15T15:16:25Z</time>
+      </trkpt>
+      <trkpt lat="53.9130491" lon="17.5323798">
+        <ele>133.2799072</ele>
+        <time>2013-08-15T15:16:35Z</time>
+      </trkpt>
+      <trkpt lat="53.9125807" lon="17.5326575">
+        <ele>133.7604980</ele>
+        <time>2013-08-15T15:16:46Z</time>
+      </trkpt>
+      <trkpt lat="53.9122423" lon="17.5328866">
+        <ele>132.7993164</ele>
+        <time>2013-08-15T15:16:54Z</time>
+      </trkpt>
+      <trkpt lat="53.9118696" lon="17.5333246">
+        <ele>131.8378906</ele>
+        <time>2013-08-15T15:17:07Z</time>
+      </trkpt>
+      <trkpt lat="53.9114101" lon="17.5336138">
+        <ele>131.3572998</ele>
+        <time>2013-08-15T15:17:17Z</time>
+      </trkpt>
+      <trkpt lat="53.9111042" lon="17.5337703">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:17:26Z</time>
+      </trkpt>
+      <trkpt lat="53.9107410" lon="17.5339356">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:17:36Z</time>
+      </trkpt>
+      <trkpt lat="53.9105564" lon="17.5340010">
+        <ele>131.8378906</ele>
+        <time>2013-08-15T15:17:41Z</time>
+      </trkpt>
+      <trkpt lat="53.9102099" lon="17.5341072">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:17:47Z</time>
+      </trkpt>
+      <trkpt lat="53.9098202" lon="17.5342447">
+        <ele>135.2025146</ele>
+        <time>2013-08-15T15:17:59Z</time>
+      </trkpt>
+      <trkpt lat="53.9095910" lon="17.5343154">
+        <ele>137.6058350</ele>
+        <time>2013-08-15T15:18:08Z</time>
+      </trkpt>
+      <trkpt lat="53.9092822" lon="17.5344491">
+        <ele>140.4898682</ele>
+        <time>2013-08-15T15:18:21Z</time>
+      </trkpt>
+      <trkpt lat="53.9091024" lon="17.5342831">
+        <ele>139.5284424</ele>
+        <time>2013-08-15T15:18:30Z</time>
+      </trkpt>
+      <trkpt lat="53.9090782" lon="17.5342451">
+        <ele>139.5284424</ele>
+        <time>2013-08-15T15:18:31Z</time>
+      </trkpt>
+      <trkpt lat="53.9089775" lon="17.5339872">
+        <ele>140.4898682</ele>
+        <time>2013-08-15T15:18:37Z</time>
+      </trkpt>
+      <trkpt lat="53.9087806" lon="17.5338207">
+        <ele>143.8543701</ele>
+        <time>2013-08-15T15:18:46Z</time>
+      </trkpt>
+      <trkpt lat="53.9086747" lon="17.5336553">
+        <ele>143.3736572</ele>
+        <time>2013-08-15T15:18:54Z</time>
+      </trkpt>
+      <trkpt lat="53.9086003" lon="17.5336113">
+        <ele>140.9704590</ele>
+        <time>2013-08-15T15:18:57Z</time>
+      </trkpt>
+      <trkpt lat="53.9084537" lon="17.5334708">
+        <ele>138.5672607</ele>
+        <time>2013-08-15T15:19:03Z</time>
+      </trkpt>
+      <trkpt lat="53.9084055" lon="17.5334977">
+        <ele>138.0865479</ele>
+        <time>2013-08-15T15:19:05Z</time>
+      </trkpt>
+      <trkpt lat="53.9081562" lon="17.5336826">
+        <ele>135.6831055</ele>
+        <time>2013-08-15T15:19:12Z</time>
+      </trkpt>
+      <trkpt lat="53.9079004" lon="17.5339351">
+        <ele>132.7993164</ele>
+        <time>2013-08-15T15:19:19Z</time>
+      </trkpt>
+      <trkpt lat="53.9076992" lon="17.5342335">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:19:23Z</time>
+      </trkpt>
+      <trkpt lat="53.9076401" lon="17.5343060">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:19:24Z</time>
+      </trkpt>
+      <trkpt lat="53.9075248" lon="17.5344384">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:19:26Z</time>
+      </trkpt>
+      <trkpt lat="53.9072282" lon="17.5347170">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:19:39Z</time>
+      </trkpt>
+      <trkpt lat="53.9071597" lon="17.5347838">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:19:43Z</time>
+      </trkpt>
+      <trkpt lat="53.9070621" lon="17.5348148">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:19:48Z</time>
+      </trkpt>
+      <trkpt lat="53.9068080" lon="17.5349461">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:19:59Z</time>
+      </trkpt>
+      <trkpt lat="53.9065955" lon="17.5349619">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:20:10Z</time>
+      </trkpt>
+      <trkpt lat="53.9063282" lon="17.5348404">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:20:20Z</time>
+      </trkpt>
+      <trkpt lat="53.9060163" lon="17.5347906">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:20:31Z</time>
+      </trkpt>
+      <trkpt lat="53.9057198" lon="17.5348631">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:20:43Z</time>
+      </trkpt>
+      <trkpt lat="53.9054863" lon="17.5350564">
+        <ele>129.9152832</ele>
+        <time>2013-08-15T15:20:53Z</time>
+      </trkpt>
+      <trkpt lat="53.9052473" lon="17.5351718">
+        <ele>131.3572998</ele>
+        <time>2013-08-15T15:21:03Z</time>
+      </trkpt>
+      <trkpt lat="53.9049439" lon="17.5353112">
+        <ele>131.3572998</ele>
+        <time>2013-08-15T15:21:13Z</time>
+      </trkpt>
+      <trkpt lat="53.9046041" lon="17.5355661">
+        <ele>130.8767090</ele>
+        <time>2013-08-15T15:21:23Z</time>
+      </trkpt>
+      <trkpt lat="53.9043473" lon="17.5356621">
+        <ele>134.2412109</ele>
+        <time>2013-08-15T15:21:32Z</time>
+      </trkpt>
+      <trkpt lat="53.9040956" lon="17.5358056">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:21:42Z</time>
+      </trkpt>
+      <trkpt lat="53.9040548" lon="17.5358357">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:21:43Z</time>
+      </trkpt>
+      <trkpt lat="53.9038240" lon="17.5358952">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:21:48Z</time>
+      </trkpt>
+      <trkpt lat="53.9033895" lon="17.5357862">
+        <ele>131.3572998</ele>
+        <time>2013-08-15T15:22:00Z</time>
+      </trkpt>
+      <trkpt lat="53.9031058" lon="17.5354507">
+        <ele>130.3959961</ele>
+        <time>2013-08-15T15:22:10Z</time>
+      </trkpt>
+      <trkpt lat="53.9028469" lon="17.5352989">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:22:17Z</time>
+      </trkpt>
+      <trkpt lat="53.9024378" lon="17.5352294">
+        <ele>130.3959961</ele>
+        <time>2013-08-15T15:22:28Z</time>
+      </trkpt>
+      <trkpt lat="53.9021821" lon="17.5353753">
+        <ele>131.3572998</ele>
+        <time>2013-08-15T15:22:38Z</time>
+      </trkpt>
+      <trkpt lat="53.9020961" lon="17.5355466">
+        <ele>131.3572998</ele>
+        <time>2013-08-15T15:22:43Z</time>
+      </trkpt>
+      <trkpt lat="53.9019503" lon="17.5358797">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:22:49Z</time>
+      </trkpt>
+      <trkpt lat="53.9018132" lon="17.5365966">
+        <ele>127.5119629</ele>
+        <time>2013-08-15T15:22:59Z</time>
+      </trkpt>
+      <trkpt lat="53.9017380" lon="17.5370331">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:23:05Z</time>
+      </trkpt>
+      <trkpt lat="53.9013990" lon="17.5372548">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:23:15Z</time>
+      </trkpt>
+      <trkpt lat="53.9011006" lon="17.5373926">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:23:24Z</time>
+      </trkpt>
+      <trkpt lat="53.9006825" lon="17.5376369">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:23:37Z</time>
+      </trkpt>
+      <trkpt lat="53.9006408" lon="17.5377000">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:23:39Z</time>
+      </trkpt>
+      <trkpt lat="53.9002888" lon="17.5377724">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:23:48Z</time>
+      </trkpt>
+      <trkpt lat="53.9002248" lon="17.5377889">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:24:09Z</time>
+      </trkpt>
+      <trkpt lat="53.9000437" lon="17.5378565">
+        <ele>129.9152832</ele>
+        <time>2013-08-15T15:24:16Z</time>
+      </trkpt>
+      <trkpt lat="53.8998406" lon="17.5377952">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:24:22Z</time>
+      </trkpt>
+      <trkpt lat="53.8993802" lon="17.5377621">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:24:33Z</time>
+      </trkpt>
+      <trkpt lat="53.8993176" lon="17.5377857">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:24:35Z</time>
+      </trkpt>
+      <trkpt lat="53.8988519" lon="17.5378841">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:24:46Z</time>
+      </trkpt>
+      <trkpt lat="53.8985784" lon="17.5379332">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:24:51Z</time>
+      </trkpt>
+      <trkpt lat="53.8981765" lon="17.5380320">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:25:00Z</time>
+      </trkpt>
+      <trkpt lat="53.8981360" lon="17.5380411">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:25:01Z</time>
+      </trkpt>
+      <trkpt lat="53.8979774" lon="17.5380568">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:25:05Z</time>
+      </trkpt>
+      <trkpt lat="53.8976181" lon="17.5380448">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:25:14Z</time>
+      </trkpt>
+      <trkpt lat="53.8975061" lon="17.5380340">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:25:17Z</time>
+      </trkpt>
+      <trkpt lat="53.8973533" lon="17.5380954">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:25:21Z</time>
+      </trkpt>
+      <trkpt lat="53.8969826" lon="17.5383547">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:25:31Z</time>
+      </trkpt>
+      <trkpt lat="53.8966110" lon="17.5384950">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:25:40Z</time>
+      </trkpt>
+      <trkpt lat="53.8965669" lon="17.5385185">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:25:41Z</time>
+      </trkpt>
+      <trkpt lat="53.8962508" lon="17.5385830">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:25:47Z</time>
+      </trkpt>
+      <trkpt lat="53.8959396" lon="17.5386517">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:25:53Z</time>
+      </trkpt>
+      <trkpt lat="53.8954359" lon="17.5387943">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:26:04Z</time>
+      </trkpt>
+      <trkpt lat="53.8951143" lon="17.5389465">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:26:14Z</time>
+      </trkpt>
+      <trkpt lat="53.8947818" lon="17.5391149">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:26:23Z</time>
+      </trkpt>
+      <trkpt lat="53.8945625" lon="17.5392803">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:26:30Z</time>
+      </trkpt>
+      <trkpt lat="53.8943558" lon="17.5393660">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:26:35Z</time>
+      </trkpt>
+      <trkpt lat="53.8942850" lon="17.5393925">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:26:37Z</time>
+      </trkpt>
+      <trkpt lat="53.8939874" lon="17.5395408">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:26:45Z</time>
+      </trkpt>
+      <trkpt lat="53.8938422" lon="17.5395443">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:26:48Z</time>
+      </trkpt>
+      <trkpt lat="53.8936808" lon="17.5395553">
+        <ele>129.4346924</ele>
+        <time>2013-08-15T15:26:54Z</time>
+      </trkpt>
+      <trkpt lat="53.8932125" lon="17.5395438">
+        <ele>129.9152832</ele>
+        <time>2013-08-15T15:27:05Z</time>
+      </trkpt>
+      <trkpt lat="53.8929930" lon="17.5399180">
+        <ele>131.8378906</ele>
+        <time>2013-08-15T15:27:15Z</time>
+      </trkpt>
+      <trkpt lat="53.8928932" lon="17.5403778">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:27:25Z</time>
+      </trkpt>
+      <trkpt lat="53.8928272" lon="17.5404222">
+        <ele>130.8767090</ele>
+        <time>2013-08-15T15:27:27Z</time>
+      </trkpt>
+      <trkpt lat="53.8926807" lon="17.5406064">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:27:31Z</time>
+      </trkpt>
+      <trkpt lat="53.8925890" lon="17.5407640">
+        <ele>127.0313721</ele>
+        <time>2013-08-15T15:27:34Z</time>
+      </trkpt>
+      <trkpt lat="53.8924731" lon="17.5410653">
+        <ele>127.5119629</ele>
+        <time>2013-08-15T15:27:42Z</time>
+      </trkpt>
+      <trkpt lat="53.8922431" lon="17.5412458">
+        <ele>127.0313721</ele>
+        <time>2013-08-15T15:27:49Z</time>
+      </trkpt>
+      <trkpt lat="53.8919085" lon="17.5413859">
+        <ele>127.0313721</ele>
+        <time>2013-08-15T15:27:58Z</time>
+      </trkpt>
+      <trkpt lat="53.8915874" lon="17.5414729">
+        <ele>127.0313721</ele>
+        <time>2013-08-15T15:28:07Z</time>
+      </trkpt>
+      <trkpt lat="53.8914593" lon="17.5414947">
+        <ele>127.5119629</ele>
+        <time>2013-08-15T15:28:10Z</time>
+      </trkpt>
+      <trkpt lat="53.8910850" lon="17.5413697">
+        <ele>127.0313721</ele>
+        <time>2013-08-15T15:28:19Z</time>
+      </trkpt>
+      <trkpt lat="53.8909339" lon="17.5412337">
+        <ele>127.0313721</ele>
+        <time>2013-08-15T15:28:24Z</time>
+      </trkpt>
+      <trkpt lat="53.8908556" lon="17.5412336">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:28:29Z</time>
+      </trkpt>
+      <trkpt lat="53.8908142" lon="17.5412327">
+        <ele>128.9541016</ele>
+        <time>2013-08-15T15:28:32Z</time>
+      </trkpt>
+      <trkpt lat="53.8905694" lon="17.5409128">
+        <ele>128.4733887</ele>
+        <time>2013-08-15T15:28:42Z</time>
+      </trkpt>
+      <trkpt lat="53.8903253" lon="17.5405814">
+        <ele>130.3959961</ele>
+        <time>2013-08-15T15:28:53Z</time>
+      </trkpt>
+      <trkpt lat="53.8901372" lon="17.5403722">
+        <ele>132.7993164</ele>
+        <time>2013-08-15T15:29:04Z</time>
+      </trkpt>
+      <trkpt lat="53.8900430" lon="17.5402874">
+        <ele>133.7604980</ele>
+        <time>2013-08-15T15:29:09Z</time>
+      </trkpt>
+      <trkpt lat="53.8899384" lon="17.5402287">
+        <ele>134.2412109</ele>
+        <time>2013-08-15T15:29:14Z</time>
+      </trkpt>
+      <trkpt lat="53.8898208" lon="17.5401501">
+        <ele>132.7993164</ele>
+        <time>2013-08-15T15:29:19Z</time>
+      </trkpt>
+      <trkpt lat="53.8894770" lon="17.5398483">
+        <ele>134.2412109</ele>
+        <time>2013-08-15T15:29:29Z</time>
+      </trkpt>
+      <trkpt lat="53.8892173" lon="17.5396708">
+        <ele>134.7219238</ele>
+        <time>2013-08-15T15:29:39Z</time>
+      </trkpt>
+      <trkpt lat="53.8891387" lon="17.5396945">
+        <ele>133.2799072</ele>
+        <time>2013-08-15T15:29:41Z</time>
+      </trkpt>
+      <trkpt lat="53.8888892" lon="17.5396690">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:29:46Z</time>
+      </trkpt>
+      <trkpt lat="53.8884399" lon="17.5396379">
+        <ele>133.2799072</ele>
+        <time>2013-08-15T15:29:59Z</time>
+      </trkpt>
+      <trkpt lat="53.8883244" lon="17.5396586">
+        <ele>134.2412109</ele>
+        <time>2013-08-15T15:30:08Z</time>
+      </trkpt>
+      <trkpt lat="53.8880600" lon="17.5397143">
+        <ele>137.6058350</ele>
+        <time>2013-08-15T15:30:20Z</time>
+      </trkpt>
+      <trkpt lat="53.8877791" lon="17.5397998">
+        <ele>140.0091553</ele>
+        <time>2013-08-15T15:30:34Z</time>
+      </trkpt>
+      <trkpt lat="53.8877459" lon="17.5397964">
+        <ele>139.5284424</ele>
+        <time>2013-08-15T15:30:56Z</time>
+      </trkpt>
+      <trkpt lat="53.8877448" lon="17.5397960">
+        <ele>140.0091553</ele>
+        <time>2013-08-15T15:30:59Z</time>
+      </trkpt>
+      <trkpt lat="53.8877448" lon="17.5397960">
+        <ele>127.9925537</ele>
+        <time>2013-08-15T15:32:18Z</time>
+      </trkpt>
+      <trkpt lat="53.8880254" lon="17.5400130">
+        <ele>139.0478516</ele>
+        <time>2013-08-15T15:32:20Z</time>
+      </trkpt>
+      <trkpt lat="53.8877727" lon="17.5397077">
+        <ele>140.4898682</ele>
+        <time>2013-08-15T15:32:42Z</time>
+      </trkpt>
+      <trkpt lat="53.8875177" lon="17.5399914">
+        <ele>140.0091553</ele>
+        <time>2013-08-15T15:32:55Z</time>
+      </trkpt>
+      <trkpt lat="53.8873927" lon="17.5402595">
+        <ele>138.0865479</ele>
+        <time>2013-08-15T15:33:04Z</time>
+      </trkpt>
+      <trkpt lat="53.8873930" lon="17.5402691">
+        <ele>139.0478516</ele>
+        <time>2013-08-15T15:33:06Z</time>
+      </trkpt>
+      <trkpt lat="53.8873930" lon="17.5402691">
+        <ele>141.9317627</ele>
+        <time>2013-08-15T15:33:11Z</time>
+      </trkpt>
+      <trkpt lat="53.8873930" lon="17.5402691">
+        <ele>139.0478516</ele>
+        <time>2013-08-15T15:33:14Z</time>
+      </trkpt>
+      <trkpt lat="53.8872427" lon="17.5403323">
+        <ele>138.5672607</ele>
+        <time>2013-08-15T15:33:15Z</time>
+      </trkpt>
+      <trkpt lat="53.8871687" lon="17.5403692">
+        <ele>138.5672607</ele>
+        <time>2013-08-15T15:33:27Z</time>
+      </trkpt>
+      <trkpt lat="53.8871056" lon="17.5404720">
+        <ele>136.6446533</ele>
+        <time>2013-08-15T15:33:31Z</time>
+      </trkpt>
+      <trkpt lat="53.8868542" lon="17.5407324">
+        <ele>135.6831055</ele>
+        <time>2013-08-15T15:33:37Z</time>
+      </trkpt>
+      <trkpt lat="53.8867645" lon="17.5407470">
+        <ele>135.6831055</ele>
+        <time>2013-08-15T15:33:39Z</time>
+      </trkpt>
+      <trkpt lat="53.8866165" lon="17.5407205">
+        <ele>134.2412109</ele>
+        <time>2013-08-15T15:33:42Z</time>
+      </trkpt>
+      <trkpt lat="53.8863147" lon="17.5405277">
+        <ele>134.7219238</ele>
+        <time>2013-08-15T15:33:51Z</time>
+      </trkpt>
+      <trkpt lat="53.8860389" lon="17.5405912">
+        <ele>132.3186035</ele>
+        <time>2013-08-15T15:34:01Z</time>
+      </trkpt>
+      <trkpt lat="53.8857489" lon="17.5405489">
+        <ele>133.7604980</ele>
+        <time>2013-08-15T15:34:11Z</time>
+      </trkpt>
+      <trkpt lat="53.8855882" lon="17.5405872">
+        <ele>136.1639404</ele>
+        <time>2013-08-15T15:34:17Z</time>
+      </trkpt>
+      <trkpt lat="53.8854292" lon="17.5405979">
+        <ele>139.0478516</ele>
+        <time>2013-08-15T15:34:27Z</time>
+      </trkpt>
+      <trkpt lat="53.8853472" lon="17.5405908">
+        <ele>140.4898682</ele>
+        <time>2013-08-15T15:34:32Z</time>
+      </trkpt>
+      <trkpt lat="53.8851781" lon="17.5404948">
+        <ele>143.3736572</ele>
+        <time>2013-08-15T15:34:45Z</time>
+      </trkpt>
+      <trkpt lat="53.8849175" lon="17.5405017">
+        <ele>142.4124756</ele>
+        <time>2013-08-15T15:34:56Z</time>
+      </trkpt>
+      <trkpt lat="53.8847507" lon="17.5405545">
+        <ele>141.4510498</ele>
+        <time>2013-08-15T15:35:00Z</time>
+      </trkpt>
+      <trkpt lat="53.8846845" lon="17.5405678">
+        <ele>141.9317627</ele>
+        <time>2013-08-15T15:35:02Z</time>
+      </trkpt>
+      <trkpt lat="53.8845204" lon="17.5406291">
+        <ele>145.2963867</ele>
+        <time>2013-08-15T15:35:13Z</time>
+      </trkpt>
+      <trkpt lat="53.8842236" lon="17.5406219">
+        <ele>144.3352051</ele>
+        <time>2013-08-15T15:35:25Z</time>
+      </trkpt>
+      <trkpt lat="53.8840155" lon="17.5406246">
+        <ele>142.4124756</ele>
+        <time>2013-08-15T15:35:30Z</time>
+      </trkpt>
+      <trkpt lat="53.8837430" lon="17.5403396">
+        <ele>141.9317627</ele>
+        <time>2013-08-15T15:35:37Z</time>
+      </trkpt>
+      <trkpt lat="53.8834987" lon="17.5394807">
+        <ele>143.3736572</ele>
+        <time>2013-08-15T15:35:50Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>
